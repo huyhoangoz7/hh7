@@ -1,0 +1,152 @@
+body
+{
+	margin:0;
+	padding:0;
+}
+form
+{
+	margin:0;
+	padding:0;
+}
+img
+{
+	border:0px solid red;
+}
+div.cao_3_px
+{
+	height:3px;
+	width:5px;
+	overflow:hidden;
+}
+input
+{
+
+}
+a.lienket_phanthan:link { font-size: 22px; text-decoration: none;  color: blue;line-height:35px }
+
+a.lienket_phanthan:hover { font-size: 22px; text-decoration: underline; color: #6b8e23;   }
+
+a.sua_xoa:link { font-size: 16px; text-decoration: none;  color: #FF00FF; font-weight: bold}
+a.sua_xoa:visited { font-size: 16px; color: #FF00FF; text-decoration: none; font-weight: bold}
+a.sua_xoa:hover { font-size: 16px; text-decoration: underline; color: #FF8C00; font-weight: bold; font-style: normal; }
+
+table.table__abc
+{
+	border:1px solid #cccccc;
+	border-collapse: collapse;
+	cursor:default;
+}
+table.table__abc td
+{
+	/*vertical-align:top;*/
+	border:1px solid #cccccc;
+	background:#f9f9f9;
+}
+table.table__abc tr td.table__abc___tr_td__dau
+{
+	background:#f0f0f0;
+	font-weight:bold;
+	color:#0b55c4
+}
+#table__abc___tr_td
+{
+	background:white;
+}
+#table__abc___tr_td_hover
+{
+	background:#ffffdd;
+}
+
+#table__abc___tr_td_hover_2
+{
+	/*background:#d9e9e5;*/
+	background:#c8f5f2;
+}
+
+a.nut_dong
+{
+	margin-right:5px;
+	color:#0b55c4;
+	outline:0;
+	text-decoration: none;
+}
+span.span__16
+{
+	float:left;
+	margin-left:5px
+}
+	
+	
+div.khung_tieu_de_phan_than_ban_dau 
+{
+	background:#00aaff;
+	border:1px solid #00aaff;
+	color:white;
+	cursor:default;
+	height:32px;
+	width:668px;
+	margin-top:30px;
+}
+
+div.khung_tieu_de_phan_than_ban_dau span 
+{
+	margin-left:10px;
+	line-height:33px;
+	font-size:19px;
+	font-weight:bold;
+	
+}
+
+
+div.khung_noi_dung_phan_than_ban_dau
+{
+	border:1px solid #00aaff;
+	width:668px;
+	
+}
+
+div.khung_noi_dung_phan_than_ban_dau a 
+{
+	text-decoration:none;
+	font-size:24px;
+	color:black;
+	margin-left:20px;
+	line-height:40px;
+}
+div.khung_noi_dung_phan_than_ban_dau a:hover 
+{
+	color:red;
+} 
+
+div.khung_tieu_de_cot_phai_ban_dau 
+{
+	background:#00aaff;
+	border:1px solid #00aaff;
+	color:white;
+	cursor:default;
+	height:32px;
+	width:268px;
+	margin-top:30px;
+	text-align:left;
+}
+
+div.khung_tieu_de_cot_phai_ban_dau span 
+{
+	margin-left:10px;
+	line-height:33px;
+	font-size:19px;
+	font-weight:bold;
+	
+}
+
+div.khung_noi_dung_cot_phai_ban_dau
+{
+	width:268px;
+	border:1px solid #00aaff;
+	text-align:left;
+}
+
+a.ten_sp_l {color:black;text-decoration:none;margin-left:10px;}
+a.ten_sp_l:hover {color:red;}
+
+tr.hang_l_1:hover{background:#ffe7d2;}

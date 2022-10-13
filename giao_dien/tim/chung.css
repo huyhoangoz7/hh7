@@ -1,0 +1,310 @@
+body
+{
+	margin:0;
+	padding:0;
+	
+}
+form
+{
+	margin:0;
+	padding:0;
+}
+img
+{
+	border:0px solid red;
+}
+a
+{
+	text-decoration: none;
+	outline:0;
+	color:#c20bbb;
+	/*color:blue;*/
+}
+
+div.cao_3_px
+{
+	height:12px;
+	width:5px;
+	overflow:hidden;
+}
+
+div.v_c1
+{
+	height:15px;
+	width:5px;
+	overflow:hidden;
+}
+
+input
+{
+	/*border:1px solid #999999;*/
+}
+div.tdk___456
+{
+	/*background-image:url("../hinhanh_flash/dung_chung/2.png");*/
+	background:#0099ff;
+	width:170px;
+	height:27px;
+	
+}
+div.tdk___456 span
+{
+	color:white;
+	margin-left:10px;
+	/*font-weight:bold;*/
+	line-height:27px;
+	cursor:default;
+	font-size:18px;
+}
+div.ndk___456
+{
+	width:168px;
+	/*background:#ececec;*/
+	border:1px solid #0099ff;
+	border-top:0px solid #999999;
+}
+
+div.tdk___456_bc2
+{
+	width:200px;
+	height:33px;
+	text-align:left;
+	background:#c20bbb;
+
+	
+}
+div.tdk___456_bc2 span
+{
+	color:white;
+	margin-left:10px;
+	/*font-weight:bold;*/
+	line-height:33px;
+	cursor:default;
+	font-size:17px;
+}
+div.ndk___456_bc2
+{
+	width:198px;
+	text-align:left;
+	border:1px solid #c20bbb;
+}
+
+
+div.tdg___ggg_bc2
+{
+	width:768px;
+	height:32px;
+	text-align:left	;
+	border: 1px solid #c20bbb;
+	background:#c20bbb;
+}
+div.tdg___ggg_bc2 a
+{
+	margin-left:5px;
+	color:white;
+	/*font-weight:bold;*/
+	line-height:32px
+}
+div.ndg___ggg_bc2
+{
+	text-align:left;
+	width:768px;
+	border: 1px solid #c20bbb;
+}
+
+
+
+
+div.khung_bao_ngoai___j89
+{
+	/*background:#ececec;*/
+	border:0px solid #999999;
+}
+div.khung_bao_ngoai___j90
+{
+	/*background:#ececec;*/
+	border:0px solid #999999;
+	width:150px
+}
+a.ten_san_pham
+{
+	color:black;
+	/*font-size:14px;*/
+	display:inline-block;
+	width:170px;
+	margin-top:13px;
+	margin-bottom:7px;
+
+}
+a.ten_san_pham:hover
+{
+	color:red;	
+}
+span.gia_ban
+{
+	/*font-weight:bold;*/
+	color:#A42E2E
+}
+
+a.menu_ngang_duoi__jjj
+{
+	margin-right:10px;
+	color:black;
+	/*font-weight:bold;*/
+}
+a.menu_ngang_duoi__jjj:hover
+{
+	text-decoration: underline;
+}
+a.link_8
+{
+	color:black;
+	width:120px;
+	display:inline-block;
+	font-size:14px;
+	margin:7px 0px;
+}
+
+a.link_8:hover {color:red;}
+
+a.link_9:link { text-decoration: none;  color: black; }
+
+a.link_9:hover { text-decoration: underline; color:#a70001; font-style: normal; }
+
+a.link_10
+{
+	color:red
+}
+a.link_10:hover
+{
+	text-decoration: underline;
+}
+a.link_15
+{
+	color:black;
+	font-weight:bold;
+	font-size:16px;
+}
+a.link_15:hover
+{
+	text-decoration: none;
+	color:red
+	
+}
+
+td.o_menu_ngang
+{
+	background:#c20bbb; /*mau nen menu*/
+}
+
+
+ul.menu_ngang
+{
+	margin:0;
+	padding:0;
+	
+}
+ul.menu_ngang li
+{
+	float:left;
+	list-style:none;
+}
+ul.menu_ngang li a
+{
+	color:white;
+	font-weight:bold;
+	display:inline-block;
+	padding:8px 8px 8px 8px;
+	border-right:0px solid #0000ff;
+}
+ul.menu_ngang li a:hover
+{
+
+	/*background:#fb2d9c;*/
+	background:#ad2da6;
+	/*color:#86543d;*/
+	/*text-decoration:underline;*/
+}
+ul.menu_ngang ul 
+{
+	position:absolute;
+	z-index:10;
+	padding:0px;
+	margin-top:0px;
+	display:none;
+	width:170px;
+	background:white;
+	border:1px solid #c20bbb;
+	
+}
+ul.menu_ngang ul li 
+{
+	float:none;
+	color:black
+	
+}
+ul.menu_ngang ul li a 
+{
+
+	color:black;
+	font-weight:normal;
+}
+ul.menu_ngang ul li a:hover 
+{
+	color:red;
+	background:white
+}
+ul.menu_ngang ul ul
+{
+	display:none;margin-left:170px;margin-top:-36px;
+	position:absolute;z-index:10;padding:0px;border:1px solid #c20bbb;
+}
+
+span.l_30
+{
+	color:white;
+}
+
+span.l_31
+{
+
+	color:#c20bbb;
+}
+
+input.l_40
+{
+	color:white;
+	background:#c20bbb;border:2px solid #c20bbb;
+}
+
+b.l_44
+{
+	color:#c20bbb;
+}
+
+a.lll 
+{
+	font-size:16px
+}
+
+a.link_3:link { font-size: 18px; text-decoration: none;  color: black; }
+a.link_3:hover { font-size: 18px; text-decoration: underline; color:#ff9900;  font-style: normal; }
+
+div.nd_ctsp
+{
+	background:white;width:768px;font-size:14px;
+	border-top:1px solid #c20bbb;
+}	
+
+a.xoa_binh_luan {color:black;font-size:18px;float:right;margin-right:15px;}
+a.xoa_binh_luan:hover {color:red;}
+
+
+div.khung_ll_30
+{
+	width:729px;
+	margin-bottom:35px;
+	padding-bottom:3px;
+	border-bottom:1px solid #c20bbb;
+}
+

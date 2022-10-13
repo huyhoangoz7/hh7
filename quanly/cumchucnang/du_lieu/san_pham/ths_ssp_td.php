@@ -1,0 +1,9 @@
+<?php 
+	chong_pha_hoai();
+?>
+<?php 
+	$ssp=post_bm("ssp");
+	sua_thong_so($ssp,"so_san_pham_tren_dong");
+	trang_truoc_a1();
+	exit();
+?>
